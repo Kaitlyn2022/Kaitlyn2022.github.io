@@ -326,6 +326,7 @@ strong {
         width: 50%;
         float: left;
         text-size: 1vw;
+        margin-bottom: 1vw;
     }
     
     .footprint {

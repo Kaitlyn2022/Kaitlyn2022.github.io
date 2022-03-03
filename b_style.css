@@ -325,6 +325,7 @@ strong {
         display: inline-block;
         width: 50%;
         float: left;
+        text-size: 1vw;
     }
     
     .footprint {

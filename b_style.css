@@ -318,6 +318,8 @@ strong {
     .title_2 {
         font-size: large;
         font-style: oblique;
+        margin-top: -1;
+        padding: 1vw;
     }
     
     .mission {
@@ -325,8 +327,7 @@ strong {
         display: inline-block;
         width: 50%;
         float: left;
-        text-size: 1vw;
-        margin-bottom: 1vw;
+        margin-top: -1
     }
     
     .footprint {
